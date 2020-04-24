@@ -1,0 +1,7 @@
+Required modules
+
+#selenium
+#webdriver 
+#os
+#python 3 or above
+#instaloader
