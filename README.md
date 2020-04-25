@@ -10,7 +10,7 @@ First of all you should install the necessary modules:
    "pip install selenium"(if there is pip package manager)
    
 2. Webdriver
-  -> If you are using google chrome as your you should install 'chromedriver' and for mozilla firefox the required webdriver
+  -> If you are using google chrome as your browser you should install 'chromedriver' and for mozilla firefox the required webdriver
      is 'geckodriver'
   -> Get chrome webdriver from https://chromedriver.chromium.org/
   -> Get geckodriver from https://github.com/mozilla/geckodriver/releases
